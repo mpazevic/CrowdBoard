@@ -17,10 +17,12 @@ app.use(bodyParser.urlencoded({ extended: true }));
 app.use(bodyParser.text());
 app.use(bodyParser.json({ type: "application/vnd.api+json" }));
 
+//Static content run from this point
 app.use(express.static("./src"));
 
 //-------------------------------------------------
 
+//Render the homepage
 app.use("/", viewRouter);
 
 //-------------------------------------------------

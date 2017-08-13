@@ -1,5 +1,5 @@
 # CrowdBoard
-A crowd-powered platform for creating events
+A crowd-powered platform for pinning one's favorite places
 
 Process undertaken:
 

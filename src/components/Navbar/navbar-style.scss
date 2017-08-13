@@ -1,0 +1,18 @@
+@import '../../../style/main';
+
+.navbar-section {
+  -webkit-box-shadow: $box-shadow;
+  -moz-box-shadow: $box-shadow;
+  box-shadow: $box-shadow;
+  .navbar {
+    background-color: $color-primary;
+    margin: 0 auto;
+    border-radius: 0;
+    min-height: 80px;
+    .navbar-head {
+      margin-top: 20px;
+      text-align: center;
+      font-size: 40px;
+    }
+  }
+}

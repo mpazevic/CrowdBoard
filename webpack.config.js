@@ -40,6 +40,6 @@ module.exports = {
     ]
 
   },
-  // Without this the console says all errors are coming from just coming from bundle.js
+  // Without this the console says all errors are coming from bundle.js
   devtool: "eval-source-map"
 };
