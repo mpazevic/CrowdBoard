@@ -9,7 +9,7 @@ Unfortunately, about halfway through the project I realized that I had a CORS er
 
 I do not have enough time currently to continue, though I wrote enough code to give any reviewer a good idea of what I intended to do and a couple of the components I intended to generate. I am confident that I could complete this project given more time, and writing the project in vanilla JS would have been far more straightforward considering that third party libraries like React are unsupported (hindsight is 20/20!).
 
-# Major Technologies Used #
+## Major Technologies Used ##
 
 * ES6
 * React
@@ -17,21 +17,21 @@ I do not have enough time currently to continue, though I wrote enough code to g
 * Express
 * Node.js
 
-# Node Packages Utilized #
+## Node Packages Utilized ##
 
 * React-google-maps
 * node-sass
 * lodash
 * axios
 
-# Build System #
+## Build System ##
 
 * Webpack
 * Babel
 * CSS-loader
 * Style-loader
 
-# Future Technologies to Employ #
+## Future Technologies to Employ ##
 
 * SQL for simple storage of pin locations and descriptions
 * ESLint for linting React Components
