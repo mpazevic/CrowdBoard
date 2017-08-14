@@ -3,6 +3,7 @@ var express = require("express");
 var bodyParser = require("body-parser");
 var logger = require("morgan");
 const viewRouter = require("./routes/viewRoutes.js");
+//Potential API routes to be included
 // const apiRouter = require("./routes/apiRoutes.js");
 
 // Create Instance of Express
